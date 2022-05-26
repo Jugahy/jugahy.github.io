@@ -1,1 +1,0 @@
-# jugahy.github.io
