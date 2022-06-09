@@ -1,4 +1,4 @@
-title: JeonJu University AI
+title: Jeonju University AI
 author: GitHub User
 email: jugahy1205@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -12,7 +12,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Jugahy
+  name: Eyears
   tagline: AI. Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
